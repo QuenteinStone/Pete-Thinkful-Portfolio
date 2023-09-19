@@ -52,4 +52,4 @@ hr {
 a:link{color: #d62828;}
 a:hover{color: #f77f00;}
 ul{text-align: left;}
-footer{text-align: center;}
+footer{display: flex; justify-content: center; align-content: center;}
